@@ -19,7 +19,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "proxy": "https://80.90.189.115:443",
+  "proxy": "https://frontend-app-build-eyvti3dlm-romans-projects-5c1983ef.vercel.app",
   "eslintConfig": {
     "extends": [
       "react-app",
